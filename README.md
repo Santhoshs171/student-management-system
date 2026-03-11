@@ -1,4 +1,4 @@
-                                                              Student Management System
+                                           Student Management System
                                                               
 Project Overview:
 This project is a Student Management System built using React.js.
